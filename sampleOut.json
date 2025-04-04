@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Naveen Thukral, Florence Tan",
+            "title": "Strong gains for cocoa, iron ore in 2023 as energy prices dip",
+            "description": "Cocoa and iron ore prices surged in 2023, while natural gas and coal prices tumbled, with most agricultural products expected to outperform energy and industrial metals in the New Year amid supply constraints and dry weather.",
+            "url": "https://www.reuters.com/markets/commodities/strong-gains-cocoa-iron-ore-2023-energy-prices-dip-2023-12-29/",
+            "urlToImage": "https://www.reuters.com/resizer/6gAunN3-gM3hYHOh_lSR8Yp_dro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2HULWUWDJIMZBQOX7WY6XGBHM.jpg",
+            "publishedAt": "2023-12-29T05:38:44Z",
+            "content": "SINGAPORE, Dec 29 (Reuters) - Cocoa and iron ore prices surged in 2023, while natural gas and coal prices tumbled, with most agricultural products expected to outperform energy and industrial metals … [+5122 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Nathan Schmidt",
+            "title": "Grim weather outlook for NYE",
+            "description": "Australians are set for a grim start to the new year as storm-ravaged regions battle heatwaves, while others face fresh threats from thunderstorms.",
+            "url": "https://www.news.com.au/technology/environment/storms-and-heatwaves-forecast-for-nye-after-storm-carnage/news-story/eb7faeb37b90bf1e2502ed62272e35a0",
+            "urlToImage": "https://content.api.news/v3/images/bin/ddee20deeccba8e6d01c6c0691ab979d",
+            "publishedAt": "2023-12-29T02:34:00Z",
+            "content": "Australians are set for a grim start to the new year as storm-ravaged regions battle heatwaves, while others face fresh threats from thunderstorms. \r\nQueenslanders sweltered through the hottest Decem… [+3223 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "News24 | Thursday's weather: Cloudy and cool with widespread to scattered thundershowers for most of SA",
+            "description": "The South African Weather Service has warned of disruptive rain leading to localised flooding and severe thunderstorms in some parts of the country, with cloudy and cool temperatures and widespread to scattered thundershowers and rain.",
+            "url": "https://www.news24.com/news24/southafrica/news/thursdays-weather-cloudy-and-cool-with-widespread-to-scattered-thundershowers-for-most-of-sa-20231227",
+            "urlToImage": null,
+            "publishedAt": "2023-12-27T18:34:55",
+            "content": "The South African Weather Service has warned of disruptive rain leading to localised flooding and severe thunderstorms in some parts of the country, with cloudy and cool temperatures and widespread t… [+35 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "AP",
+            "title": "Wild Weather Over Christmas Holiday Leaves At Least 10 Dead In Eastern Australia",
+            "description": "Australian officials say at least 10 people have died after severe storms on Christmas and Boxing Day.",
+            "url": "https://www.huffpost.com/entry/australia-storms-deaths_n_658be675e4b0cd3cf0e419bc",
+            "urlToImage": "https://img.huffingtonpost.com/asset/658bea152200003600faf6e0.jpeg?cache=a3ivqQ4ys7&ops=1200_630",
+            "publishedAt": "2023-12-27T09:14:16Z",
+            "content": "BRISBANE, Australia (AP) Wild weather has left at least 10 people dead in the eastern Australian states of Queensland and Victoria, officials said on Wednesday.\r\nThree men, aged 48, 59 and 69, were k… [+4146 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": null,
+            "title": "Benefits of running in the cold outweigh warm weather running",
+            "description": null,
+            "url": "https://www.medicalnewstoday.com/articles/benefits-of-running-in-the-cold-outweigh-warm-weather-running",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T09:52:07.079873Z",
+            "content": null
+        }
+    ]
+}
